@@ -1,3 +1,216 @@
 # AI and Data Ethics. From Data (Feminism/Gaps/Work) to Critical (Archival/Data/Code) Studies
 This is the repository containing course materials and the reading list for the class "AI and Data Ethics. From Data (Feminism/Gaps/Work) to Critical (Archival/Data/Code) Studies" (HU Berlin, WS 2026/26).
 
+
+# Critical AI and Data Ethics — Thematic Reading List
+
+The reading list is organised into ten thematic sessions. Each session distinguishes between core readings, optional further readings, and supplementary resources where applicable. 
+
+## 1. Definitions: What Is “AI”?
+
+### Core readings
+
+1. Crawford, Kate. 2021. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. New Haven, CT: Yale University Press. **Introduction.** [Publisher](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/) · [Google Books](https://books.google.de/books?id=XvEdEAAAQBAJ) · [Free audiobook preview](https://www.youtube.com/watch?v=0ntvKSrOdus).
+
+2. Narayanan, Arvind, and Sayash Kapoor. 2024. *AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference*. Princeton, NJ: Princeton University Press. **Introduction, pp. 1–35.** [Publisher and free preview](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil#preview) · [Audio preview](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil#audio) (only approximately 5 minutes).
+
+
+### Suggested videos: Technical introductions to AI and machine learning
+
+1. 3Blue1Brown. “But What Is a Neural Network?” *Deep Learning*, Chapter 1 (approximately 18 minutes). [YouTube](https://www.youtube.com/watch?v=aircAruvnKk).
+2. 3Blue1Brown. “Gradient Descent, How Neural Networks Learn.” *Deep Learning*, Chapter 2 (first approximately 12 minutes). [YouTube](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2).
+3. 3Blue1Brown. “Large Language Models Explained Briefly” (approximately 8 minutes). [YouTube](https://www.youtube.com/watch?v=LPZh9BOjkQs).
+4. 3Blue1Brown. “Transformers, the Tech behind LLMs.” *Deep Learning*, Chapter 5 (approximately 27 minutes). [YouTube](https://www.youtube.com/watch?v=wjZofJX0v4M).
+5. “Introduction to Machine Learning” (approximately 60 minutes). [YouTube](https://www.youtube.com/watch?v=KyzD6zaX9sQ&list=PLWNohMNguM_nO3SG9UrzPpbybV_UoCg5w&index=3).
+
+Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com/?topic=neural-networks) · [Atlas of AI — Wikipedia](https://en.wikipedia.org/wiki/Atlas_of_AI).
+
+---
+
+## 2. Critical (Archival/Data) Turns
+
+### Core readings
+
+1. Iliadis, Andrew, and Federica Russo. 2016. “Critical Data Studies: An Introduction.” *Big Data & Society* 3 (2): 1–7. [https://doi.org/10.1177/2053951716674238](https://doi.org/10.1177/2053951716674238).
+
+2. Caswell, Michelle, Ricardo Punzalan, and T-Kay Sangwand. 2017. “Critical Archival Studies: An Introduction.” *Journal of Critical Library and Information Studies* 1 (2). [https://doi.org/10.24242/jclis.v1i2.50](https://doi.org/10.24242/jclis.v1i2.50). [Full text](https://journals.litwinbooks.com/index.php/jclis/article/view/50/30).
+
+### Optional further readings
+
+- Stoler, Ann Laura. 2009. *Along the Archival Grain: Epistemic Anxieties and Colonial Common Sense*. Princeton, NJ: Princeton University Press. Selected chapter. [Publisher](https://press.princeton.edu/books/paperback/9780691146362/along-the-archival-grain).
+
+- Putnam, Lara. 2016. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” *American Historical Review* 121 (2): 377–402. [https://doi.org/10.1093/ahr/121.2.377](https://doi.org/10.1093/ahr/121.2.377).
+
+- Zaagsma, Gerben. 2023. “Digital History and the Politics of Digitization.” *Digital Scholarship in the Humanities* 38 (2): 830–851. [https://doi.org/10.1093/llc/fqac050](https://doi.org/10.1093/llc/fqac050).
+
+- Berry, David M. 2023. “Tracing ‘Toxicity’ Through Code: Towards a Method of Explainability and Interpretability in Software.” *Digital Humanities Quarterly* 17 (2). [PDF](https://dhq-static.digitalhumanities.org/pdf/000706.pdf).
+
+---
+
+## 3. Foundational Texts and Historicizing AI and Data
+
+### Core readings
+
+1. Gitelman, Lisa, ed. 2013. *“Raw Data” Is an Oxymoron*. Cambridge, MA: MIT Press. **Introduction and conclusion.** [Publisher](https://direct.mit.edu/books/edited-volume/3992/Raw-Data-Is-an-Oxymoron) · [PDF excerpts](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf).
+
+2. Bowker, Geoffrey C., and Susan Leigh Star. 1999. *Sorting Things Out: Classification and Its Consequences*. Cambridge, MA: MIT Press. **Introduction.** [https://doi.org/10.7551/mitpress/6352.001.0001](https://doi.org/10.7551/mitpress/6352.001.0001). [Publisher](https://direct.mit.edu/books/monograph/4738/Sorting-Things-OutClassification-and-Its) · [PDF](https://hcommons.org/app/uploads/sites/1001532/2020/03/Bowker-1999-Sorting-Things-Out-Classification-and-Its-Consequences.pdf).
+
+### Optional further readings
+
+- Aronova, Elena, Christine von Oertzen, and David Sepkoski. 2017. “Introduction: Historicizing Big Data.” *Osiris* 32 (1): 1–17. [https://doi.org/10.1086/693399](https://doi.org/10.1086/693399).
+
+- Ali, Syed Mustafa, Stephanie Dick, Sarah Dillon, Matthew L. Jones, Jonnie Penn, and Richard Staley. 2023. “Histories of Artificial Intelligence: A Genealogy of Power.” *BJHS Themes* 8: 1–18. [https://doi.org/10.1017/bjt.2023.15](https://doi.org/10.1017/bjt.2023.15). [Special issue](https://www.cambridge.org/core/journals/bjhs-themes/volume/CC6DA03117D67C4CEF43862D7A2160DC).
+
+- Blair, Ann M. 2010. *Too Much to Know: Managing Scholarly Information before the Modern Age*. New Haven, CT: Yale University Press.
+
+- Crawford, Kate. 2021. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. New Haven, CT: Yale University Press. **Chapter on labour.** [Publisher](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/).
+
+---
+
+## 4. Data Feminism and Gender Issues
+
+### Core readings
+
+1. D’Ignazio, Catherine, and Lauren F. Klein. 2020. *Data Feminism*. Cambridge, MA: MIT Press. **Chapter 4, “What Gets Counted Counts.”** [Open-access book](https://data-feminism.mitpress.mit.edu/) · [Chapter 4](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp).
+
+2. D’Ignazio, Catherine, and Lauren F. Klein. 2020. *Data Feminism*. Cambridge, MA: MIT Press. **Chapter 6, “The Numbers Don’t Speak for Themselves.”** [Chapter 6](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5). Also: “Context Matters” (chapter to confirm). [Open-access book](https://data-feminism.mitpress.mit.edu/).
+
+### Optional further readings
+
+- Lang, Sarah, and Elena Suárez Cronauer. 2026. “Beyond Data Feminism: Toward Ethical Data Work in the (Digital) Humanities.” *Zeitschrift für digitale Geisteswissenschaften*. [https://zfdg.de/wp_2026](https://zfdg.de/wp_2026).
+
+- Buolamwini, Joy, and Timnit Gebru. 2018. “Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.” In *Proceedings of the 1st Conference on Fairness, Accountability and Transparency*, edited by Sorelle A. Friedler and Christo Wilson, 77–91. *Proceedings of Machine Learning Research* 81. [Open-access paper](https://proceedings.mlr.press/v81/buolamwini18a.html).
+
+- Hicks, Mar. 2017. *Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing*. Cambridge, MA: MIT Press.
+
+- Hicks, Mar. 2021. “Sexism Is a Feature, Not a Bug.” In *Your Computer Is on Fire*, edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, and Kavita Philip, 135–58. Cambridge, MA: MIT Press.
+
+- Klinger, Ulrike, and Jakob Svensson. 2021. “The Power of Code: Women and the Making of the Digital World.” *Information, Communication & Society* 24 (14): 2075–90. [https://doi.org/10.1080/1369118X.2021.1962947](https://doi.org/10.1080/1369118X.2021.1962947).
+
+- Nyhan, Julianne. 2022. *Hidden and Devalued Feminized Labour in the Digital Humanities: On the Index Thomisticus Project, 1954–67*. London: Routledge. Particularly “On the Making of the Myth of the Lone Scholar: Digital Humanities as Aetiology.” [https://doi.org/10.4324/9781003138235](https://doi.org/10.4324/9781003138235).
+
+- Nyhan, Julianne. 2023. “The History of the ‘Techie’ in the History of Digital Humanities.” In *On Making in the Digital Humanities: The Scholarship of Digital Humanities Development in Honour of John Bradley*, edited by Julianne Nyhan, Geoffrey Rockwell, Stéfan Sinclair, and Alexandra Ortolja-Baird, 129–47. London: UCL Press. [https://doi.org/10.2307/j.ctv2wk727j.11](https://doi.org/10.2307/j.ctv2wk727j.11).
+
+- Terras, Melissa, and Julianne Nyhan. 2016. “Father Busa’s Female Punch Card Operatives.” In *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein, 60–65. Minneapolis: University of Minnesota Press. [https://doi.org/10.5749/j.ctt1cn6thb.9](https://doi.org/10.5749/j.ctt1cn6thb.9).
+
+---
+
+## 5. (Data) Activism and Auditing
+
+### Core readings
+
+1. D’Ignazio, Catherine. 2024. *Counting Feminicide: Data Feminism in Action*. Cambridge, MA: MIT Press. **“Official Data, Missing Data, Counterdata.”** [Book DOI](https://doi.org/10.7551/mitpress/14671.001.0001) · [Chapter DOI](https://doi.org/10.7551/mitpress/14671.003.0006) · [Open-access chapter](https://direct.mit.edu/books/book/5767/chapter/4726635/Official-Data-Missing-Data-Counterdata) · [Chapter PDF](https://direct.mit.edu/books/book/chapter-pdf/2368370/c002100_9780262378017.pdf).
+
+2. Raji, Inioluwa Deborah, and Joy Buolamwini. 2023. “Actionable Auditing Revisited: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products.” *Communications of the ACM* 66 (1). [https://doi.org/10.1145/3571151](https://doi.org/10.1145/3571151). [Full text](https://dl.acm.org/doi/full/10.1145/3571151) · [PDF](https://dl.acm.org/doi/epdf/10.1145/3571151).
+
+
+
+### Optional further readings
+
+- Buolamwini, Joy, and Timnit Gebru. 2018. “Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.” In *Proceedings of the 1st Conference on Fairness, Accountability and Transparency*, 77–91. [Open-access paper](https://proceedings.mlr.press/v81/buolamwini18a.html).
+
+
+
+---
+
+## 6. Focusing on Data: Critical Data(set) Studies
+
+### Core readings
+
+1. Paullada, Amandalynne, Inioluwa Deborah Raji, Emily M. Bender, Emily Denton, and Alex Hanna. 2020. “Data and Its (Dis)Contents: A Survey of Dataset Development and Use in Machine Learning Research.” *arXiv*. [https://arxiv.org/abs/2012.05345](https://arxiv.org/abs/2012.05345).
+
+2.  Bode, Katherine, and Lauren M. E. Goodlad. 2023. “Data Worlds: An Introduction.” *Critical AI* 1 (1–2). [https://doi.org/10.1215/2834703X-10734026](https://doi.org/10.1215/2834703X-10734026). [Publisher](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-10734026/382463/Data-Worlds-An-Introduction).
+
+
+### Optional further readings
+
+- Thylstrup, Nanna Bonde. 2022. “The Ethics and Politics of Data Sets in the Age of Machine Learning: Deleting Traces and Encountering Remains.” *Media, Culture & Society*. [https://doi.org/10.1177/01634437211060226](https://doi.org/10.1177/01634437211060226).
+
+- Crawford, Kate. 2021. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. New Haven, CT: Yale University Press. **“Data,” pp. 89–122.** [Publisher](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/).
+
+### Further resources
+
+- [Knowing Machines](https://knowingmachines.org/)
+- [Knowing Machines: Critical Dataset Studies Reading List](https://knowingmachines.org/reading-list)
+- [Knowing Machines: 9 Ways to See](https://knowingmachines.org/publications/9-ways-to-see)
+- [Knowing Machines: Critical Field Guide](https://knowingmachines.org/critical-field-guide)
+
+---
+
+## 7. Large Language Models and Big Scales
+
+### Core readings
+
+1. Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021. “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?” In *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency*, 610–23. New York: Association for Computing Machinery. [https://doi.org/10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922).
+
+2. Rowberry, Simon. 2025. “The Value of Books in the Age of Generative AI Training Data.” *Convergence* 31 (6): 1935–50. [https://doi.org/10.1177/13548565251358020](https://doi.org/10.1177/13548565251358020). [Open-access EPUB](https://journals.sagepub.com/doi/epub/10.1177/13548565251358020).
+
+### Optional further reading
+
+- Birhane, Abeba, Sepehr Dehdashtian, Vinay Uday Prabhu, and Vishnu Naresh Boddeti. 2024. “The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models.” In *Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency*, 1229–44. New York: Association for Computing Machinery. [https://doi.org/10.1145/3630106.3658968](https://doi.org/10.1145/3630106.3658968).
+
+---
+
+## 8. Data Work
+
+### Core readings
+
+1. Gray, Mary L., and Siddharth Suri. 2019. *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass*. Boston: Houghton Mifflin Harcourt. **“Introduction: Ghosts in the Machine,” pp. ix–xxxi, and optionally Chapter 1, “Humans in the Loop,” pp. 1–38.** [PDF excerpts](https://www.its.caltech.edu/~haugen/Ghost-Work-reading.pdf).
+
+2. Hao, Karen. 2025. *Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI*. New York: Penguin Press. **Selected sections on data work.**
+
+### Optional further readings
+
+- Crawford, Kate. 2021. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. New Haven, CT: Yale University Press. **Chapter on labour.** [Publisher](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/).
+
+- Yang, Tianling, Christian Strippel, Alexandra Keiner, Dylan Baker, Alexis Chávez, Krystal Kauffman, Marc Pohl, Caroline Sinders, and Milagros Miceli. 2025. *Ethics of Data Work: Principles for Academic Data Work Requesters*. Weizenbaum Discussion Paper 48. Berlin: Weizenbaum Institute. [PDF](https://www.weizenbaum-institut.de/media/Publikationen/Weizenbaum_Discussion_Paper/Weizenbaum_Discussion_Paper_48.pdf).
+
+- Alvarado, Rafael C. 2022. “Datawork and the Future of Digital Humanities.” In *The Bloomsbury Handbook to the Digital Humanities*, edited by James O’Sullivan, 361–72. London: Bloomsbury Academic. [Publisher DOI](https://doi.org/10.5040/9781350232143.ch-34).
+
+- Shapin, Steven. 1989. “The Invisible Technician.” *American Scientist* 77 (6): 554–63.
+
+### Further resources
+
+- [Weizenbaum Institute: Ethics of Data Work](https://www.weizenbaum-institut.de/en/research/research-projects/ethics-of-data-work/)
+- [Empire of AI — Wikipedia](https://en.wikipedia.org/wiki/Empire_of_AI)
+
+---
+
+## 9. AI and Environment
+
+### Core readings
+
+1. Crawford, Kate. 2021. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. New Haven, CT: Yale University Press. **Chapter 1, “Earth.”** [Publisher](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/).
+
+2. Hao, Karen. 2025. *Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI*. New York: Penguin Press. **Selected sections on data centres.**
+
+### Optional further readings
+
+- Edwards, Dustin, Zane Griffin Talley Cooper, and Mél Hogan. 2025. “The Making of Critical Data Center Studies.” *Convergence: The International Journal of Research into New Media Technologies* 31 (2): 429–46. First published online January 23, 2024. [https://doi.org/10.1177/13548565231224157](https://doi.org/10.1177/13548565231224157). [Full text](https://journals.sagepub.com/doi/full/10.1177/13548565231224157).
+
+- Luccioni, Alexandra Sasha. 
+
+---
+
+## 10. Ethics of AI Ethics and Critical Concerns
+
+### Core readings
+
+1. Powers, Thomas M., and Jean-Gabriel Ganascia. 2020. “The Ethics of the Ethics of AI.” In *The Oxford Handbook of Ethics of AI*, edited by Markus D. Dubber, Frank Pasquale, and Sunit Das, 26–51. Oxford: Oxford University Press. [https://doi.org/10.1093/oxfordhb/9780190067397.013.2](https://doi.org/10.1093/oxfordhb/9780190067397.013.2). [Handbook](https://doi.org/10.1093/oxfordhb/9780190067397.001.0001).
+
+2. Guest, Olivia, et al. 2026. “Against the Uncritical Adoption of ‘AI’ Technologies in Academia.” *Digital Culture & Education* 16 (2): 85–118. [PDF](https://www.digitalcultureandeducation.com/s/Guestetal-2026.pdf) · [Journal issue](https://www.digitalcultureandeducation.com/volume-162).
+
+
+### Optional further readings
+
+- Gebru, Timnit. “Runaway Feedback Loops” (chapter on race, gender, and bias in *The Oxford Handbook of Ethics of AI*; full reference to confirm). [Handbook](https://academic.oup.com/edited-volume/34287).
+
+- Lang, Sarah. 2026. “Critical Concerns for Using LLMs in the (Computational) Humanities and Beyond.” In *Understanding Science with Large Language Models?*, 35–50. Bielefeld: transcript Verlag. [https://doi.org/10.14361/9783839447529-035](https://doi.org/10.14361/9783839447529-035). [Book DOI](https://doi.org/10.14361/9783839447529).
+
+### Further resources
+
+- Nakamura, Lisa. *Critical AI Syllabus / Reading List*. [PDF](https://backend.production.deepblue-documents.lib.umich.edu/server/api/core/bitstreams/79604677-d1c8-4ba3-9684-7e2b9699b526/content).
+
+---
+
+
