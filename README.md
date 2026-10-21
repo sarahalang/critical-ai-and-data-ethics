@@ -37,6 +37,8 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 
 ### Optional further readings
 
+- Schwartz, Joan M., and Terry Cook. 2002. “Archives, Records, and Power: The Making of Modern Memory.” *Archival Science* 2: 1–19. [https://doi.org/10.1007/BF02435628](https://doi.org/10.1007/BF02435628).
+
 - Stoler, Ann Laura. 2009. *Along the Archival Grain: Epistemic Anxieties and Colonial Common Sense*. Princeton, NJ: Princeton University Press. Selected chapter. [Publisher](https://press.princeton.edu/books/paperback/9780691146362/along-the-archival-grain).
 
 - Putnam, Lara. 2016. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” *American Historical Review* 121 (2): 377–402. [https://doi.org/10.1093/ahr/121.2.377](https://doi.org/10.1093/ahr/121.2.377).
