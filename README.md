@@ -12,7 +12,7 @@ The reading list is organised into ten thematic sessions. Each session distingui
 
 1. Crawford, Kate. 2021. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. New Haven, CT: Yale University Press. **Introduction.** [Publisher](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/) · [Google Books](https://books.google.de/books?id=XvEdEAAAQBAJ) · [Free audiobook preview](https://www.youtube.com/watch?v=0ntvKSrOdus).
 
-2. Narayanan, Arvind, and Sayash Kapoor. 2024. *AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference*. Princeton, NJ: Princeton University Press. **Introduction, pp. 1–35.** [Publisher and free preview](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil#preview) · [Audio preview](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil#audio) (only approximately 5 minutes).
+2. Narayanan, Arvind, and Sayash Kapoor. 2024. *AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference*. Princeton, NJ: Princeton University Press. **Introduction, pp. 1–35.** [Publisher and free preview](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil#preview) · [Audio preview](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil#audio) (only approximately 5 minutes). See also: https://en.wikipedia.org/wiki/AI_Snake_Oil 
 
 
 ### Suggested videos: Technical introductions to AI and machine learning
