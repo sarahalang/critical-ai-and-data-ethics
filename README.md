@@ -99,7 +99,7 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 
 ### Core readings
 
-1. D’Ignazio, Catherine. 2024. *Counting Feminicide: Data Feminism in Action*. Cambridge, MA: MIT Press. **“Official Data, Missing Data, Counterdata.”** [Book DOI](https://doi.org/10.7551/mitpress/14671.001.0001) · [Chapter DOI](https://doi.org/10.7551/mitpress/14671.003.0006) · [Open-access chapter](https://direct.mit.edu/books/book/5767/chapter/4726635/Official-Data-Missing-Data-Counterdata) · [Chapter PDF](https://direct.mit.edu/books/book/chapter-pdf/2368370/c002100_9780262378017.pdf).
+1. D’Ignazio, Catherine. 2024. *Counting Feminicide: Data Feminism in Action*. Cambridge, MA: MIT Press. **“Official Data, Missing Data, Counterdata.”** pp. 53-83. [Book DOI](https://doi.org/10.7551/mitpress/14671.001.0001) · [Chapter DOI](https://doi.org/10.7551/mitpress/14671.003.0006) · [Open-access chapter](https://direct.mit.edu/books/book/5767/chapter/4726635/Official-Data-Missing-Data-Counterdata) · [Chapter PDF](https://direct.mit.edu/books/book/chapter-pdf/2368370/c002100_9780262378017.pdf).
 
 2. Raji, Inioluwa Deborah, and Joy Buolamwini. 2023. “Actionable Auditing Revisited: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products.” *Communications of the ACM* 66 (1). [https://doi.org/10.1145/3571151](https://doi.org/10.1145/3571151). [Full text](https://dl.acm.org/doi/full/10.1145/3571151) · [PDF](https://dl.acm.org/doi/epdf/10.1145/3571151).
 
@@ -108,6 +108,7 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 ### Optional further readings
 
 - Buolamwini, Joy, and Timnit Gebru. 2018. “Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.” In *Proceedings of the 1st Conference on Fairness, Accountability and Transparency*, 77–91. [Open-access paper](https://proceedings.mlr.press/v81/buolamwini18a.html).
+- D’Ignazio, Catherine. 2024. *Counting Feminicide: Data Feminism in Action*. Cambridge, MA: MIT Press. **“A Toolkit for Restorative/Transformative Data Science.”** pp. 245-272. [Book DOI](https://doi.org/10.7551/mitpress/14671.001.0001) · [Chapter DOI](https://doi.org/10.7551/mitpress/14671.003.0014) · [Open-access chapter](https://direct.mit.edu/books/book/5767/chapter/4726651/A-Toolkit-for-Restorative-Transformative-Data) · [Chapter PDF](https://direct.mit.edu/books/book/chapter-pdf/2368376/c007000_9780262378017.pdf). 
 
 
 
@@ -188,7 +189,9 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 
 - Edwards, Dustin, Zane Griffin Talley Cooper, and Mél Hogan. 2025. “The Making of Critical Data Center Studies.” *Convergence: The International Journal of Research into New Media Technologies* 31 (2): 429–46. First published online January 23, 2024. [https://doi.org/10.1177/13548565231224157](https://doi.org/10.1177/13548565231224157). [Full text](https://journals.sagepub.com/doi/full/10.1177/13548565231224157).
 
-- Luccioni, Alexandra Sasha. 
+- Lacoste, Alexandre, Alexandra Luccioni, Victor Schmidt, and Thomas Dandres. 2019. “Quantifying the Carbon Emissions of Machine Learning.” *arXiv* preprint, arXiv:1910.09700. [https://doi.org/10.48550/arXiv.1910.09700](https://doi.org/10.48550/arXiv.1910.09700).
+
+- Stephanie Hankey (ed): The RePlaybook (Tactical Tech: 2025?): https://cdn.ttc.io/s/tacticaltech.org/the_replaybook_field_guide_to_the_climate_and_information_crisis.pdf (pp. 112-200)
 
 ---
 
@@ -203,7 +206,11 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 
 ### Optional further readings
 
-- Gebru, Timnit. “Runaway Feedback Loops” (chapter on race, gender, and bias in *The Oxford Handbook of Ethics of AI*; full reference to confirm). [Handbook](https://academic.oup.com/edited-volume/34287).
+- Gebru, Timnit. 2020. “Race and Gender.” In *The Oxford Handbook of Ethics of AI*, edited by Markus D. Dubber, Frank Pasquale, and Sunit Das, 252–69. Oxford: Oxford University Press. [https://doi.org/10.1093/oxfordhb/9780190067397.013.16](https://doi.org/10.1093/oxfordhb/9780190067397.013.16).
+
+- Kuipers, Benjamin. 2020. “Perspectives on Ethics of AI: Computer Science.” In *The Oxford Handbook of Ethics of AI*, edited by Markus D. Dubber, Frank Pasquale, and Sunit Das, 420–41. Oxford: Oxford University Press. [https://doi.org/10.1093/oxfordhb/9780190067397.013.27](https://doi.org/10.1093/oxfordhb/9780190067397.013.27).
+
+- Gunkel, David J. 2020. “Perspectives on Ethics of AI: Philosophy.” In *The Oxford Handbook of Ethics of AI*, edited by Markus D. Dubber, Frank Pasquale, and Sunit Das, 538–53. Oxford: Oxford University Press. [https://doi.org/10.1093/oxfordhb/9780190067397.013.35](https://doi.org/10.1093/oxfordhb/9780190067397.013.35).
 
 - Lang, Sarah. 2026. “Critical Concerns for Using LLMs in the (Computational) Humanities and Beyond.” In *Understanding Science with Large Language Models?*, 35–50. Bielefeld: transcript Verlag. [https://doi.org/10.14361/9783839447529-035](https://doi.org/10.14361/9783839447529-035). [Book DOI](https://doi.org/10.14361/9783839447529).
 
