@@ -239,6 +239,19 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 - Noble, Safiya Umoja. 2018. *Algorithms of Oppression: How Search Engines Reinforce Racism*. New York: New York University Press. [Publisher](https://nyupress.org/author/safiya-umoja-noble).
 
 - O’Neil, Cathy. 2016. *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*. Penguin. [Publisher](https://www.penguin.co.uk/authors/130421/cathy-oneil).
+
 ---
+
+# Disclaimer
+
+Please be aware that there are many possible, and quite different, ways to approach AI and data ethics. The approach presented here reflects my particular interests and positionality within the field (read more about that here: https://sarahalang.com/). 
+
+For instance, this reading list does not really cover philosophical approaches to AI ethics at all. This is by design. In my view, much of what is written in explicitly philosophical contexts is motivated by different concerns and often presupposes an understanding of philosophy and how to 'work philosophically' that I encountered during my philosophy degree but do not find particularly applicable to historical contexts. Such work is also difficult to engage with fully without some philosophical background.
+
+Many disciplines have developed approaches to AI and data ethics, often with quite different commitments, including medicine, law, philosophy and computer science, sociology, science and technology studies, etc. My approach emerges from (Critical) DH.
+
+This reading list is necessarily limited by what can realistically be covered in one semester (what you see here already stretches those limits considerably). Please therefore bear in mind that there is much more to explore if you wish to engage with these topics more fully.
+
+Unfortunately, as I have argued in my 'Critical Concerns' paper (see the readings for Session 10), AI and data ethics are fragmented across numerous fields and traditions that have developed largely independently. As a result, these traditions often engage in relatively little dialogue, and bringing them into conversation with one another remains a considerable challenge. Ultimately, what we study in AI and data ethics consists mainly of discourses emerging from relatively separate disciplinary bubbles, with only a few key readings (such as Kate Crawford's *Atlas of AI*) as common points of reference.
 
 
