@@ -216,9 +216,13 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 
 - Lang, Sarah. 2026. “Critical Concerns for Using LLMs in the (Computational) Humanities and Beyond.” In *Understanding Science with Large Language Models?*, 35–50. Bielefeld: transcript Verlag. [https://doi.org/10.14361/9783839447529-035](https://doi.org/10.14361/9783839447529-035). [Book DOI](https://doi.org/10.14361/9783839447529).
 
+--- 
+
 ### Further resources
 
 - Nakamura, Lisa. *Critical AI Syllabus / Reading List*. [PDF](https://backend.production.deepblue-documents.lib.umich.edu/server/api/core/bitstreams/79604677-d1c8-4ba3-9684-7e2b9699b526/content).
+- [Knowing Machines: Critical Dataset Studies Reading List](https://knowingmachines.org/reading-list)
+- [Critical Algorithm Studies: a Reading List](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
 
 ### Other related classics books we won't read in this class (but are worth reading)
 
