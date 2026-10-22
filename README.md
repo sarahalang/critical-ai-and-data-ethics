@@ -220,6 +220,21 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 
 - Nakamura, Lisa. *Critical AI Syllabus / Reading List*. [PDF](https://backend.production.deepblue-documents.lib.umich.edu/server/api/core/bitstreams/79604677-d1c8-4ba3-9684-7e2b9699b526/content).
 
+### Other related classics books we won't read in this class (but are worth reading)
+
+- Becker, Adam. 2025. *More Everything Forever: AI Overlords, Space Empires, and Silicon Valley’s Crusade to Control the Fate of Humanity*. Hachette.
+
+- Bender, Emily M., and Alex Hanna. 2025. *The AI Con: How to Fight Big Tech’s Hype and Create the Future We Want*. Penguin. [https://thecon.ai/](https://thecon.ai/).
+
+- Buolamwini, Joy. 2023. *Unmasking AI: My Mission to Protect What Is Human in a World of Machines*. Penguin. [Publisher](https://www.penguinrandomhouse.com/authors/2242913/joy-buolamwini/).
+
+- Zuboff, Shoshana. 2019. *The Age of Surveillance Capitalism*. London: Profile Books. [Publisher](https://profilebooks.com/contributor/shoshana-zuboff).
+
+- Broussard, Meredith. 2018. *Artificial Unintelligence: How Computers Misunderstand the World*. Cambridge, MA: MIT Press. [https://doi.org/10.7551/mitpress/11022.001.0001](https://doi.org/10.7551/mitpress/11022.001.0001).
+
+- Noble, Safiya Umoja. 2018. *Algorithms of Oppression: How Search Engines Reinforce Racism*. New York: New York University Press. [Publisher](https://nyupress.org/author/safiya-umoja-noble).
+
+- O’Neil, Cathy. 2016. *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*. Penguin. [Publisher](https://www.penguin.co.uk/authors/130421/cathy-oneil).
 ---
 
 
