@@ -47,6 +47,8 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 
 - Berry, David M. 2023. “Tracing ‘Toxicity’ Through Code: Towards a Method of Explainability and Interpretability in Software.” *Digital Humanities Quarterly* 17 (2). [PDF](https://dhq-static.digitalhumanities.org/pdf/000706.pdf).
 
+- Liu, Alan, Urszula Pawlicka-Deger, and James Smithies, eds. 2026. *Critical Infrastructure Studies and Digital Humanities*. Debates in the Digital Humanities 13. Minneapolis: University of Minnesota Press. [https://doi.org/10.5749/9781452974880](https://doi.org/10.5749/9781452974880). [Creative Commons licence (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
 ---
 
 ## 3. Foundational Texts and Historicizing AI and Data
@@ -130,6 +132,8 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 - Thylstrup, Nanna Bonde. 2022. “The Ethics and Politics of Data Sets in the Age of Machine Learning: Deleting Traces and Encountering Remains.” *Media, Culture & Society*. [https://doi.org/10.1177/01634437211060226](https://doi.org/10.1177/01634437211060226).
 
 - Crawford, Kate. 2021. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. New Haven, CT: Yale University Press. **“Data,” pp. 89–122.** [Publisher](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/).
+  
+- **AI's entanglement with the military:** Kalluri, Pratyusha Ria, William Agnew, Myra Cheng, Kentrell Owens, Luca Soldaini, and Abeba Birhane. 2025. “Computer-Vision Research Powers Surveillance Technology.” *Nature* 643: 73–79. [https://doi.org/10.1038/s41586-025-08972-6](https://doi.org/10.1038/s41586-025-08972-6).
 
 ### Further resources
 
@@ -164,13 +168,17 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 
 ### Optional further readings
 
-- Crawford, Kate. 2021. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. New Haven, CT: Yale University Press. **Chapter on labour.** [Publisher](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/).
+- Crawford, Kate. 2021. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. New Haven, CT: Yale University Press. **Chapter on labour, pp. 53-88.** [Publisher](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/).
 
 - Yang, Tianling, Christian Strippel, Alexandra Keiner, Dylan Baker, Alexis Chávez, Krystal Kauffman, Marc Pohl, Caroline Sinders, and Milagros Miceli. 2025. *Ethics of Data Work: Principles for Academic Data Work Requesters*. Weizenbaum Discussion Paper 48. Berlin: Weizenbaum Institute. [PDF](https://www.weizenbaum-institut.de/media/Publikationen/Weizenbaum_Discussion_Paper/Weizenbaum_Discussion_Paper_48.pdf).
 
 - Alvarado, Rafael C. 2022. “Datawork and the Future of Digital Humanities.” In *The Bloomsbury Handbook to the Digital Humanities*, edited by James O’Sullivan, 361–72. London: Bloomsbury Academic. [Publisher DOI](https://doi.org/10.5040/9781350232143.ch-34).
 
 - Shapin, Steven. 1989. “The Invisible Technician.” *American Scientist* 77 (6): 554–63.
+  
+- **Infrastructural Invisibility:** Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” *American Behavioral Scientist* 43 (3): 377–91. [https://doi.org/10.1177/00027649921955326](https://doi.org/10.1177/00027649921955326).
+
+- Star, Susan Leigh, and Anselm Strauss. 1999. “Layers of Silence, Arenas of Voice: The Ecology of Visible and Invisible Work.” *Computer Supported Cooperative Work (CSCW)* 8: 9–30. [https://doi.org/10.1023/A:1008651105359](https://doi.org/10.1023/A:1008651105359).
 
 ### Further resources
 
@@ -223,6 +231,21 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 - Nakamura, Lisa. *Critical AI Syllabus / Reading List*. [PDF](https://backend.production.deepblue-documents.lib.umich.edu/server/api/core/bitstreams/79604677-d1c8-4ba3-9684-7e2b9699b526/content).
 - [Knowing Machines: Critical Dataset Studies Reading List](https://knowingmachines.org/reading-list)
 - [Critical Algorithm Studies: a Reading List](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
+- [AI Ethics — Casey](https://aiethics.casey.prof/)
+
+
+### AI-related (thought) experiments and (fun/interesting) resources
+
+- [ELIZA — Wikipedia](https://en.wikipedia.org/wiki/ELIZA)
+- [Clever Hans — Wikipedia](https://en.wikipedia.org/wiki/Clever_Hans)
+- [Chinese Room — Wikipedia](https://en.wikipedia.org/wiki/Chinese_room)
+- [Turing Test](https://en.wikipedia.org/wiki/Turing_test)
+- - **"Octopus paper":** Bender, Emily M., and Alexander Koller. 2020. “Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data.” In *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, 5185–98. Association for Computational Linguistics. [https://aclanthology.org/2020.acl-main.463/](https://aclanthology.org/2020.acl-main.463/). [PDF](https://aclanthology.org/2020.acl-main.463.pdf).
+
+### Fun/interesting resources
+- [Is AI Profitable?](https://isaiprofitable.com/)
+- Mia. 2026. “ChatGPT Is Banned from Saying ‘Goblins’: Here Is Why.” *Technically*, Substack, May 1, 2026. [https://helloitsmia.substack.com/p/chatgpt-is-banned-from-saying-goblins](https://helloitsmia.substack.com/p/chatgpt-is-banned-from-saying-goblins).
+
 
 ### Other related classics books we won't read in this class (but are worth reading)
 
@@ -235,6 +258,8 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 - Zuboff, Shoshana. 2019. *The Age of Surveillance Capitalism*. London: Profile Books. [Publisher](https://profilebooks.com/contributor/shoshana-zuboff).
 
 - Broussard, Meredith. 2018. *Artificial Unintelligence: How Computers Misunderstand the World*. Cambridge, MA: MIT Press. [https://doi.org/10.7551/mitpress/11022.001.0001](https://doi.org/10.7551/mitpress/11022.001.0001).
+
+- Eubanks, Virginia. 2018. *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*. New York: St. Martin’s Press.
 
 - Noble, Safiya Umoja. 2018. *Algorithms of Oppression: How Search Engines Reinforce Racism*. New York: New York University Press. [Publisher](https://nyupress.org/author/safiya-umoja-noble).
 
