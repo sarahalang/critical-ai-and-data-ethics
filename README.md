@@ -198,6 +198,8 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 ### Optional further readings
 
 - Edwards, Dustin, Zane Griffin Talley Cooper, and Mél Hogan. 2025. “The Making of Critical Data Center Studies.” *Convergence: The International Journal of Research into New Media Technologies* 31 (2): 429–46. First published online January 23, 2024. [https://doi.org/10.1177/13548565231224157](https://doi.org/10.1177/13548565231224157). [Full text](https://journals.sagepub.com/doi/full/10.1177/13548565231224157).
+  
+- Lang, Sarah, Wishyut Pitawanik, Pascal Belouin, Emma Sevink, Jesse Olszynko-Gryn, Alfred Freeborn, and Etienne Benson. 2025. “Quantifying the Environmental Footprint of Curating Datasets with LLMs.” Zenodo. [https://doi.org/10.5281/zenodo.17902822](https://doi.org/10.5281/zenodo.17902822).
 
 - Lacoste, Alexandre, Alexandra Luccioni, Victor Schmidt, and Thomas Dandres. 2019. “Quantifying the Carbon Emissions of Machine Learning.” *arXiv* preprint, arXiv:1910.09700. [https://doi.org/10.48550/arXiv.1910.09700](https://doi.org/10.48550/arXiv.1910.09700).
 
@@ -245,6 +247,8 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 ### Fun/interesting resources
 - [Is AI Profitable?](https://isaiprofitable.com/)
 - Mia. 2026. “ChatGPT Is Banned from Saying ‘Goblins’: Here Is Why.” *Technically*, Substack, May 1, 2026. [https://helloitsmia.substack.com/p/chatgpt-is-banned-from-saying-goblins](https://helloitsmia.substack.com/p/chatgpt-is-banned-from-saying-goblins).
+
+Some of these topics I have recently discussed on [the *LaTeX Ninja'ing and the Digital Humanities* blog](https://latex-ninja.com/).
 
 
 ### Other related classics books we won't read in this class (but are worth reading)
