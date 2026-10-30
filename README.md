@@ -67,8 +67,6 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 
 - Blair, Ann M. 2010. *Too Much to Know: Managing Scholarly Information before the Modern Age*. New Haven, CT: Yale University Press.
 
-- Crawford, Kate. 2021. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. New Haven, CT: Yale University Press. **Chapter on labour.** [Publisher](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/).
-
 ---
 
 ## 4. Data Feminism and Gender Issues
