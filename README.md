@@ -275,7 +275,7 @@ Some of these topics I have recently discussed on [the *LaTeX Ninja'ing and the 
 
 # Disclaimer
 
-Please be aware that there are many possible, and quite different, ways to approach AI and data ethics. The approach presented here reflects my particular interests and positionality within the field (read more about that here: https://sarahalang.com/). 
+Please be aware that there are many possible, and quite different, ways to approach AI and data ethics. The approach presented here reflects my particular interests and positionality within the field (read more about that here: https://sarahalang.com/). I give some more context about the contents of this reading list and some of my reasoning behind it in the following blog post: Sarah Lang, Getting Started with Critical AI and Data Ethics: A Reading List, in: *LaTeX Ninja'ing and the Digital Humanities* (blog), 08.11.2026. URL: https://latex-ninja.com/2026/11/08/getting-started-with-critical-ai-and-data-ethics-a-reading-list/ 
 
 For instance, this reading list does not really cover philosophical approaches to AI ethics at all. This is by design. In my view, much of what is written in explicitly philosophical contexts is motivated by different concerns and often presupposes an understanding of philosophy and how to 'work philosophically' that I encountered during my philosophy degree but do not find particularly applicable to historical contexts. Such work is also difficult to engage with fully without some philosophical background.
 
