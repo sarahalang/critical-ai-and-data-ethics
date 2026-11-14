@@ -48,6 +48,9 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 - Berry, David M. 2023. “Tracing ‘Toxicity’ Through Code: Towards a Method of Explainability and Interpretability in Software.” *Digital Humanities Quarterly* 17 (2). [PDF](https://dhq-static.digitalhumanities.org/pdf/000706.pdf).
 
 - Liu, Alan, Urszula Pawlicka-Deger, and James Smithies, eds. 2026. *Critical Infrastructure Studies and Digital Humanities*. Debates in the Digital Humanities 13. Minneapolis: University of Minnesota Press. [https://doi.org/10.5749/9781452974880](https://doi.org/10.5749/9781452974880). [Creative Commons licence (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+  
+- **(Some context on the term 'big data')** Schöch, Christof. 2013. “Big? Smart? Clean? Messy? Data in the Humanities.” *Journal of Digital Humanities* 2 (3): 2–13. [http://journalofdigitalhumanities.org/2-3/big-smartclean-messy-data-in-the-humanities/](http://journalofdigitalhumanities.org/2-3/big-smartclean-messy-data-in-the-humanities/).
+
 
 ---
 
@@ -237,6 +240,7 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 ### AI-related (thought) experiments and (fun/interesting) resources
 
 - [ELIZA — Wikipedia](https://en.wikipedia.org/wiki/ELIZA)
+- **Further work on ELIZA:** Ciston, Sarah, David M. Berry, Anthony C. Hay, Mark C. Marino, Peter Millican, Jeff Shrager, Arthur I. Schwarz, and Peggy Weil. 2026. *Inventing ELIZA: How the First Chatbot Shaped the Future of AI*. Cambridge, MA: MIT Press. [https://doi.org/10.7551/mitpress/15790.001.0001](https://doi.org/10.7551/mitpress/15790.001.0001).
 - [Clever Hans — Wikipedia](https://en.wikipedia.org/wiki/Clever_Hans)
 - [Chinese Room — Wikipedia](https://en.wikipedia.org/wiki/Chinese_room)
 - [Turing Test](https://en.wikipedia.org/wiki/Turing_test)
