@@ -64,8 +64,6 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 
 ### Optional further readings
 
-- Aronova, Elena, Christine von Oertzen, and David Sepkoski. 2017. “Introduction: Historicizing Big Data.” *Osiris* 32 (1): 1–17. [https://doi.org/10.1086/693399](https://doi.org/10.1086/693399).
-
 - Ali, Syed Mustafa, Stephanie Dick, Sarah Dillon, Matthew L. Jones, Jonnie Penn, and Richard Staley. 2023. “Histories of Artificial Intelligence: A Genealogy of Power.” *BJHS Themes* 8: 1–18. [https://doi.org/10.1017/bjt.2023.15](https://doi.org/10.1017/bjt.2023.15). [Special issue](https://www.cambridge.org/core/journals/bjhs-themes/volume/CC6DA03117D67C4CEF43862D7A2160DC).
 
 - Blair, Ann M. 2010. *Too Much to Know: Managing Scholarly Information before the Modern Age*. New Haven, CT: Yale University Press.
@@ -156,6 +154,8 @@ Additional resources: [3Blue1Brown: Neural Networks](https://www.3blue1brown.com
 ### Optional further reading
 
 - Birhane, Abeba, Sepehr Dehdashtian, Vinay Uday Prabhu, and Vishnu Naresh Boddeti. 2024. “The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models.” In *Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency*, 1229–44. New York: Association for Computing Machinery. [https://doi.org/10.1145/3630106.3658968](https://doi.org/10.1145/3630106.3658968).
+
+- Aronova, Elena, Christine von Oertzen, and David Sepkoski. 2017. “Introduction: Historicizing Big Data.” *Osiris* 32 (1): 1–17. [https://doi.org/10.1086/693399](https://doi.org/10.1086/693399).
 
 ---
 
